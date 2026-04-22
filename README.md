@@ -26,6 +26,11 @@ Perfect for batch-producing short-form videos where you need video cuts aligned 
 | **Multi-Audio** | Each audio track generates an independent editing draft |
 | **Report Export** | Processing reports saved with detailed stats |
 
+### 📸 Screenshots
+
+**Desktop App Interface**
+![Desktop App](screenshots/desktop-app.png)
+
 ### 🏗 Architecture
 
 ```
