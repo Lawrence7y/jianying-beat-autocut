@@ -1,0 +1,14 @@
+{
+  "status": "SUCCESS",
+  "project_name": "BeatAutoCut_Smoke",
+  "draft_path": "C:\\Users\\26707\\AppData\\Local\\JianyingPro\\User Data\\Projects\\com.lveditor.draft\\BeatAutoCut_Smoke",
+  "bgm_path": "E:\\AiProject\\skills\\jianying\\assets\\audio.mp3",
+  "video_count": 1,
+  "beat_count": 10,
+  "interval_count": 10,
+  "audio_segment_count": 10,
+  "video_segment_count": 10,
+  "tempo_bpm": 112.347,
+  "audio_duration_s": 5.198,
+  "skill_root": "E:\\AiProject\\skills\\jianying"
+}
